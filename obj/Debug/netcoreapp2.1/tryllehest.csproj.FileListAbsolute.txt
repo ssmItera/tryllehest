@@ -1,0 +1,14 @@
+D:\ssm\git\tryllehest\bin\Debug\netcoreapp2.1\tryllehest.deps.json
+D:\ssm\git\tryllehest\bin\Debug\netcoreapp2.1\tryllehest.runtimeconfig.json
+D:\ssm\git\tryllehest\bin\Debug\netcoreapp2.1\tryllehest.runtimeconfig.dev.json
+D:\ssm\git\tryllehest\bin\Debug\netcoreapp2.1\tryllehest.dll
+D:\ssm\git\tryllehest\bin\Debug\netcoreapp2.1\tryllehest.pdb
+D:\ssm\git\tryllehest\obj\Debug\netcoreapp2.1\tryllehest.csprojAssemblyReference.cache
+D:\ssm\git\tryllehest\obj\Debug\netcoreapp2.1\tryllehest.csproj.CoreCompileInputs.cache
+D:\ssm\git\tryllehest\obj\Debug\netcoreapp2.1\tryllehest.RazorAssemblyInfo.cache
+D:\ssm\git\tryllehest\obj\Debug\netcoreapp2.1\tryllehest.RazorAssemblyInfo.cs
+D:\ssm\git\tryllehest\obj\Debug\netcoreapp2.1\tryllehest.AssemblyInfoInputs.cache
+D:\ssm\git\tryllehest\obj\Debug\netcoreapp2.1\tryllehest.AssemblyInfo.cs
+D:\ssm\git\tryllehest\obj\Debug\netcoreapp2.1\tryllehest.RazorTargetAssemblyInfo.cache
+D:\ssm\git\tryllehest\obj\Debug\netcoreapp2.1\tryllehest.dll
+D:\ssm\git\tryllehest\obj\Debug\netcoreapp2.1\tryllehest.pdb
